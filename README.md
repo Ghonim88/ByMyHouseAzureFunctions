@@ -13,7 +13,7 @@ This project demonstrates the end-to-end flow of data, queue-based processing, a
 
 ## Project Structure
 
-
+ByMyHouse_Assignment/ ├─ ByMyHouse.Api/                  # ASP.NET Core Web API project │  ├─ Controllers/ │  │   └─ MortgageController.cs    # Handles HTTP requests for mortgage applications │  ├─ Models/ │  │   ├─ MortgageApplication.cs   # Mortgage application data structure │  │   └─ House.cs                 # House data structure │  ├─ DAL/ │  │   ├─ IMortgageApplicationDAL.cs │  │   ├─ MortgageApplicationDAL.cs # In-memory storage for mortgage applications │  │   ├─ IHousesDAL.cs │  │   └─ HousesDAL.cs             # In-memory storage for houses │  ├─ DTOs/ │  │   └─ ApplicationResponse.cs   # DTOs for API responses │  ├─ AppJsonSerializerContext.cs  # System.Text.Json source generation context │  ├─ Program.cs                   # Configures API, DI, and Swagger │  └─ Properties/ │      └─ launchSettings.json      # Launch profiles for local development │ └─ BuyMyHouse.Functions/           # Azure Functions project ├─ ProcessMortgageOffers.cs     # TimerTrigger: reads applications and sends to queue ├─ SendMortgageEmail.cs         # QueueTrigger: processes messages from the queue ├─ Program.cs                   # Configures DI for the DAL └─ local.settings.json          # Local settings for Azure Functions
 
 ---
 
