@@ -10,7 +10,7 @@
 This project demonstrates the end-to-end flow of data, queue-based processing, and API exposure without needing a real database.
 
 ---
-
+```
 ## Project Structure
 
 ByMyHouse_Assignment/
@@ -37,7 +37,7 @@ ByMyHouse_Assignment/
    ├─ SendMortgageEmail.cs         # QueueTrigger: processes messages from the queue
    ├─ Program.cs                   # Configures DI for the DAL
    └─ local.settings.json          # Local settings for Azure Functions
-
+```
 ---
 
 ## Features Implemented
