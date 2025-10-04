@@ -13,22 +13,6 @@ This project demonstrates the end-to-end flow of data, queue-based processing, a
 
 ## Project Structure
 
-ByMyHouse_Assignment/
-│
-├─ ByMyHouse.Api/ # ASP.NET Core API project
-│ ├─ Controllers/
-│ │ └─ MortgageController.cs # Handles HTTP requests for mortgage applications
-│ ├─ Models/
-│ │ └─ MortgageApplication.cs # Defines the mortgage application structure
-│ ├─ DAL/
-│ │ ├─ IMortgageApplicationDAL.cs
-│ │ └─ MortgageApplicationDAL.cs # In-memory storage for applications
-│ └─ Program.cs # Configures API, DI, Swagger
-│
-└─ BuyMyHouse.Functions/ # Azure Functions project
-├─ ProcessMortgageOffers.cs # TimerTrigger: reads applications from DAL and sends them to queue
-├─ SendMortgageEmail.cs # QueueTrigger: processes messages from queue
-└─ Program.cs # Configures dependency injection for DAL
 
 
 ---
