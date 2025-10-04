@@ -1,0 +1,11 @@
+@ByMyHouse.Api_HostAddress = http://localhost:5146
+
+GET {{ByMyHouse.Api_HostAddress}}/todos/
+Accept: application/json
+
+###
+
+GET {{ByMyHouse.Api_HostAddress}}/todos/1
+Accept: application/json
+
+###

@@ -1,0 +1,11 @@
+C:\Users\aghon\Documents\Cloud_Minor\ByMyHouse_Assignment\ByMyHouse.Api\B yMyHouse.Shared\bin\Debug\net8.0\BuyMyHouse.Shared.deps.json
+C:\Users\aghon\Documents\Cloud_Minor\ByMyHouse_Assignment\ByMyHouse.Api\B yMyHouse.Shared\bin\Debug\net8.0\BuyMyHouse.Shared.dll
+C:\Users\aghon\Documents\Cloud_Minor\ByMyHouse_Assignment\ByMyHouse.Api\B yMyHouse.Shared\bin\Debug\net8.0\BuyMyHouse.Shared.pdb
+C:\Users\aghon\Documents\Cloud_Minor\ByMyHouse_Assignment\ByMyHouse.Api\B yMyHouse.Shared\obj\Debug\net8.0\BuyMyHouse.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aghon\Documents\Cloud_Minor\ByMyHouse_Assignment\ByMyHouse.Api\B yMyHouse.Shared\obj\Debug\net8.0\BuyMyHouse.Shared.AssemblyInfoInputs.cache
+C:\Users\aghon\Documents\Cloud_Minor\ByMyHouse_Assignment\ByMyHouse.Api\B yMyHouse.Shared\obj\Debug\net8.0\BuyMyHouse.Shared.AssemblyInfo.cs
+C:\Users\aghon\Documents\Cloud_Minor\ByMyHouse_Assignment\ByMyHouse.Api\B yMyHouse.Shared\obj\Debug\net8.0\BuyMyHouse.Shared.csproj.CoreCompileInputs.cache
+C:\Users\aghon\Documents\Cloud_Minor\ByMyHouse_Assignment\ByMyHouse.Api\B yMyHouse.Shared\obj\Debug\net8.0\BuyMyHouse.Shared.dll
+C:\Users\aghon\Documents\Cloud_Minor\ByMyHouse_Assignment\ByMyHouse.Api\B yMyHouse.Shared\obj\Debug\net8.0\refint\BuyMyHouse.Shared.dll
+C:\Users\aghon\Documents\Cloud_Minor\ByMyHouse_Assignment\ByMyHouse.Api\B yMyHouse.Shared\obj\Debug\net8.0\BuyMyHouse.Shared.pdb
+C:\Users\aghon\Documents\Cloud_Minor\ByMyHouse_Assignment\ByMyHouse.Api\B yMyHouse.Shared\obj\Debug\net8.0\ref\BuyMyHouse.Shared.dll

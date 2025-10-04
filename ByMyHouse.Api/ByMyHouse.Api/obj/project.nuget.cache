@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "DebWvCSILKo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aghon\\Documents\\Cloud_Minor\\ByMyHouse_Assignment\\ByMyHouse.Api\\ByMyHouse.Api\\BuyMyHouse.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aghon\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.20\\microsoft.dotnet.ilcompiler.8.0.20.nupkg.sha512",
+    "C:\\Users\\aghon\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.20\\microsoft.net.illink.tasks.8.0.20.nupkg.sha512",
+    "C:\\Users\\aghon\\.nuget\\packages\\microsoft.openapi\\1.6.25\\microsoft.openapi.1.6.25.nupkg.sha512",
+    "C:\\Users\\aghon\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\9.0.6\\swashbuckle.aspnetcore.swagger.9.0.6.nupkg.sha512",
+    "C:\\Users\\aghon\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\9.0.6\\swashbuckle.aspnetcore.swaggergen.9.0.6.nupkg.sha512",
+    "C:\\Users\\aghon\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\9.0.6\\swashbuckle.aspnetcore.swaggerui.9.0.6.nupkg.sha512",
+    "C:\\Users\\aghon\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.20\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}
