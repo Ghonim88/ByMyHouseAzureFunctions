@@ -14,7 +14,7 @@ This project demonstrates the end-to-end flow of data, queue-based processing, a
 ## Project Structure
 
 ByMyHouse_Assignment/
-├─ ByMyHouse.Api/ ---               # ASP.NET Core Web API project
+├─ ByMyHouse.Api/   ---               # ASP.NET Core Web API project
 │  ├─ Controllers/
 │  │  └─ MortgageController.cs     # Handles HTTP requests for mortgage applications
 │  ├─ Models/
